@@ -166,7 +166,11 @@ I built an end-to-end deep learning system that classifies movie reviews as posi
 ✓ 84% Recall
 ✓ Live demo anyone can try
 
-🔗 Try it yourself: [STREAMLIT_LINK]
+🔗 Try it yourself: [## 🚀 Try It Live
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+
+👆 Click to analyze your own movie reviews!
 📁 Source code: [GITHUB_LINK]
 
 This project demonstrates skills in NLP, transfer learning, cloud computing, and ML deployment - the full stack of a modern ML engineer.
